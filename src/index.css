@@ -80,7 +80,7 @@
 #left>:first-child>h1 {
   color: var(--button-heading);
   font-weight: 900;
-  font-size: 3.5rem;
+  font-size: 3rem;
   margin: 0;
 }
 
