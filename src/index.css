@@ -34,7 +34,7 @@
 
 @media screen and (max-width: 649px) {
   #__table > table > thead > tr > th, #__table > table > tbody > tr > td {
-    font-size: 0.8rem!important;
+    font-size: 0.7rem!important;
   }
   #__table {
     margin: 0!important;
